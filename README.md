@@ -3,6 +3,7 @@
 ## **Overview**
 This Python program solves arithmetic expressions, handling basic operations such as addition, subtraction, multiplication, division, square root calculations, and exponentiation. It simplifies expressions step-by-step and provides the final result interactively.
 
+
 ---
 
 ## **Features**
@@ -76,7 +77,3 @@ This Python program solves arithmetic expressions, handling basic operations suc
 - Support floating-point calculations.
 - Handle negative numbers and results.
 - Improve efficiency for complex expressions.
-
----
-
-Copy and paste this Markdown into your README file, and it will render beautifully with headings, bullet points, and code blocks! 🚀
