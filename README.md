@@ -11,6 +11,7 @@ This Python program solves arithmetic expressions, handling basic operations suc
   - `+` Addition
   - `-` Subtraction
   - `*` Multiplication
+  - 
   - `/` Division
   - `^` Exponentiation
   - `sqrt()` Square root
@@ -63,6 +64,7 @@ This Python program solves arithmetic expressions, handling basic operations suc
 `(10+5)*sqrt(16)`  
 ### **Output**:  
 `The result is: 60`  
+
 
 ---
 
